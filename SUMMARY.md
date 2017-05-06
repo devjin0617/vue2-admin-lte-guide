@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](readme.md)
-* [릴리즈 노트](b9b4-b9ac-c988-b178-d2b8.md)
+* [릴리즈 노트](릴리즈_노트.md)
 
