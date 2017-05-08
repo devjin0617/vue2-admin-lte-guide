@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](readme.md)
-* [Release Note](릴리즈_노트.md)
+* [Release Note](release_note.md)
 * [Configuration](configuration.md)
 
