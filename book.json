@@ -1,1 +1,7 @@
-{ "title": "vue2-admin-lte-guide" }
+{ 
+    "title": "vue2-admin-lte-guide"
+    "structure": {
+        "readme": "readme.md",
+        "langs": "LANGS.md"
+    }
+}
