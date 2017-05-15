@@ -17,8 +17,6 @@ AdminLTE에서 컬러셋을 나타내고 있는 컴포넌트입니다.
 * color:String \(default:`Primary`\): 목록에 있는 색상중에서 선택합니다.
   * Primary, Info, Success, Warning, Danger, Gray, Navi, Teal, Purple, Maroon, Black
 
-
-
 ### VAAlert
 
 경고 및 알림 등을 나타내는 알림창입니다.
@@ -46,6 +44,29 @@ AdminLTE에서 컬러셋을 나타내고 있는 컴포넌트입니다.
 * dismissible:Boolean \(default: `false`\): 닫기버튼의 출력여부입니다.
 
 
+
+### VACallout
+
+경고출력문입니다.
+
+**사용법**
+
+```
+<va-callout
+  type="danger"
+  title="I am a danger callout!"
+  text="There is a problem that we need to fix. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart."
+></va-callout>
+```
+
+**속성**
+
+* type:String \(default: `success`\): 경고출력문의 종류입니다.
+* dismissible:Boolean \(default: `false`\): 닫기버튼의 출력여부입니다.
+
+
+
+### VACustomTab
 
 
 
